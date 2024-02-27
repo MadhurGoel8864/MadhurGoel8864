@@ -1,12 +1,12 @@
 # HEY THERE!,👋 I'M MADHUR GOEL
 
 
-## 🤖 GAME DEVELOPER 🚀
+## 🤖 DATA ANALYST 🚀
 
 
 
 ## 🔗 Links
-[![INSTAGRAM](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/madhur_goel8864/)
+<vfsvs>[![INSTAGRAM](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/madhur_goel8864/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/madhur-goel-9a1589217/)
 [![leetcode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/madhurgoel8864/)
 [![Geeks For Geeks](https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/madhur12a16072)
