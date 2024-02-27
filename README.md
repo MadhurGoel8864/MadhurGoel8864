@@ -6,7 +6,6 @@
 
 
 ## 🔗 Links
-<[![INSTAGRAM](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/madhur_goel8864/)>
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/madhur-goel-mg/)
 [![leetcode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/madhurgoel88/)
 [![Geeks For Geeks](https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/madhur12a16072)
@@ -16,7 +15,9 @@
 
 ## Clean 🧑‍💻| Visualize 🤖| Analyze 🧑‍💻
 🧠 I'm currently learning Data Analysis
+
 👩‍💻 I'm currently working on Self Development
+
 😄 Pronouns He/Him/Developer
 
 
@@ -34,10 +35,10 @@
 
 ## Languages And Tools
 
+![Python](https://img.shields.io/badge/Python-0095D5?&style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
 ## 🔥 STREAKS & STATS 📊
 
 ![MadhurGoel8864's Stats](https://github-readme-stats.vercel.app/api?username=MadhurGoel8864&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
