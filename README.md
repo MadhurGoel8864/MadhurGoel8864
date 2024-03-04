@@ -1,7 +1,7 @@
 # HEY THERE!,👋 I'M MADHUR GOEL
 
 
-## 🤖 DATA ANALYST 🚀
+## 🤖 A passionate Machine Learning and Data Science Engineer from India 🚀
 
 
 
