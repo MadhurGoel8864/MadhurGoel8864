@@ -59,7 +59,9 @@
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ## 🔥 STREAKS & STATS 📊
+[![Leetcode Stats](https://leetcard.jacoblin.cool/madhurgoel88?ext=contest)](https://leetcard.jacoblin.cool/madhurgoel88?ext=contest)
 
+![madhurgoel88's Streak](https://github-readme-streak-stats.herokuapp.com/?user=madhurgoel88&theme=vue-dark&hide_border=true)
 ![MadhurGoel8864's Stats](https://github-readme-stats.vercel.app/api?username=MadhurGoel8864&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ![MadhurGoel8864's Streak](https://github-readme-streak-stats.herokuapp.com/?user=MadhurGoel8864&theme=vue-dark&hide_border=true)
